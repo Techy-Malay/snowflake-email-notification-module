@@ -118,6 +118,7 @@ This module maps directly to **SnowPro Core** topics:
 - Anyone implementing governed alerting in Snowflake
 
 ---
-
-**Author:** Malay (Principal Data Architect – Aspirational)
+## 👤 Author
+**Malaya Kumar Padhi**  
+Snowflake | Data Engineering | Analytics Architecture | (Principal Data Architect – Aspirational)
 
