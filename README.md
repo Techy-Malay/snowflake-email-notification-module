@@ -46,9 +46,9 @@ snowflake-email-notification-module/
 ├── sql/
 │   └── email_alert_lab.sql
 ├── architecture/
-│   ├── snowflake_email_alert_simple.drawio.xml
-│   ├── snowflake_email_alert_architecture.drawio.xml
-│   └── snowflake_email_alert_architecture.png
+│   ├── snowflake_email_alert_simple.png
+│   ├── Snowflake_Email_Alert_Advanced.png
+│   └── snowflake_email_alert_architecture_advanced.png
 ├── docs/
 │   └── Snowflake_Notification_Email_QnA.md
 ```
