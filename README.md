@@ -32,7 +32,12 @@ SYSTEM$SEND_EMAIL
 Notification Integration (EMAIL)
    ↓
 Whitelisted Email Recipient
+[Snowflake Email Alert Simple Architecture](architecture/snowflake_email_alert_simple.png)
+
 ```
+## Architecture – Advanced Email Alert Flow
+
+![Snowflake Email Alert Architecture](architecture/snowflake-email-alert-architecture-advanced.png)
 
 Architecture diagrams are available in the `architecture/` folder.
 
